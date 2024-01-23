@@ -14,3 +14,7 @@ Private roles
 
 ### Priest
 * Night 2 and following nights (ask for confession): the priest may select another player. That player wakes up. If the selected player is a werewolf, the priest dies. Otherwise, the selected player can see who is the priest.
+
+### Bourgeois
+* Passive ("I am innocent!"): at any time during the game after the election of the mayor and of the government, the bourgeois may reveal their role of bourgeois.
+
