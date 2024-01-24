@@ -4,6 +4,10 @@ Roles
 Public roles
 ------------
 
+### Sheriff
+* Every night (noise in the dark): right after the werewolves select their victim, the sheriff chooses a player to protect.
+If the protected player is the target of the werewolves, the game master informs everyone that the attack of the werewolves fails thanks to the action of the sheriff.
+
 Private roles
 -------------
 
