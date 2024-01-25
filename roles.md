@@ -8,6 +8,9 @@ Public roles
 * Every night (noise in the dark): right after the werewolves select their victim, the sheriff chooses a player to protect.
 If the protected player is the target of the werewolves, the game master informs everyone that the attack of the werewolves fails thanks to the action of the sheriff.
 
+### Knight
+* Passive (pardon): once in the game after a player is sentenced to death by the village, the knight may cancel that sentence. There is no new vote to replace the cancelled sentence.
+
 Private roles
 -------------
 
