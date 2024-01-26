@@ -14,6 +14,9 @@ If the protected player is the target of the werewolves, the game master informs
 Private roles
 -------------
 
+### Werewolf
+* Every night (hunting time): the werewolves select any player. That player dies. If the werewolves do not agree on the choice of the victim, the relative majority rule applies. In case of tie, the oldest among the werewolf players breaks the tie.
+
 ### Hunter
 * Passive (last cartridge): when the hunter dies, the hunter selects another player. That player dies too.
 * Night 3 (send the dog to smell):  the hunter selects another player. The game master tells the hunter whether that player is a werewolf or not.
