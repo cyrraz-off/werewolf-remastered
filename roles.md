@@ -9,12 +9,15 @@ Public roles
 * Passive (nomination of the government): When the judge or the sheriff dies, if 5 or more players are still alive, the mayor chooses another player to become the new judge or sheriff.
 
 ### Judge
-* Every day from day 2 (check the law): the judge draws a card from the deck of laws, reads it aloud, and decides whether the law applies during that day or not.
+* Every day from day 2 (apply the law): the game master draws a card from the deck of laws, reads it aloud, and the judge decides whether the law applies during that day or not.
 
 ### Sheriff
 * Every night (noise in the dark): right after the werewolves select their victim, the sheriff chooses a player to protect.
 If the protected player is the target of the werewolves, the game master informs everyone that the attack of the werewolves fails thanks to the action of the sheriff.
 * Passive (nomination of the detective): When the detective dies, if 5 or more players are still alive, the sheriff chooses another player to become new detective.
+
+### Detective
+* Every night (investigation): the game master draws a card from the deck of clues and privately gives the corresponding clue to the detective, who may take note of the information on a piece of paper.
 
 ### Knight
 * Passive (pardon): once in the game after a player is sentenced to death by the village, the knight may cancel that sentence. There is no new vote to replace the cancelled sentence.
