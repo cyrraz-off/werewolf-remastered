@@ -14,7 +14,7 @@ Public roles
 ### Sheriff
 * Every night (noise in the dark): right after the werewolves select their victim, the sheriff chooses a player to protect.
 If the protected player is the target of the werewolves, the game master informs everyone that the attack of the werewolves fails thanks to the action of the sheriff.
-* Passive (nomination of the detective): When the detective dies, if 5 or more players are still alive, the sheriff chooses another player to become new detective.
+* Passive (nomination of the detective): When the detective dies, if 5 or more players are still alive, the sheriff chooses another player to become the new detective.
 
 ### Detective
 * Every night (investigation): the game master draws a card from the deck of clues and privately gives the corresponding clue to the detective, who may take note of the information on a piece of paper.
