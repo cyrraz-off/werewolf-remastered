@@ -40,3 +40,5 @@ Private roles
 ### Bourgeois
 * Passive ("I am innocent!"): at any time during the game after the election of the mayor and of the government, the bourgeois may reveal their role of bourgeois.
 
+### Fortune teller
+* Every night (fourth eye): the fortune teller selects another player. The game master discreetly shows to the fortune teller the private role of the selected player.
