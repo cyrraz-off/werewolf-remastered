@@ -42,3 +42,9 @@ Private roles
 
 ### Fortune teller
 * Every night (fourth eye): the fortune teller selects another player. The game master discreetly shows to the fortune teller the private role of the selected player.
+
+### Wizard
+* Every night (potion of life, potion of death): the game master shows to the wizard which players died during the night.
+Once in the game, the wizard may resurrect one of them.
+Also, once in the game (from night 2), the wizard may select another player to die.
+
