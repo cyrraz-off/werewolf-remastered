@@ -29,7 +29,7 @@ Private roles
 ### Werewolf
 * Every night (hunting time): the werewolves select any player. That player dies. If the werewolves do not agree on the choice of the victim, the relative majority rule applies. In case of tie, the oldest among the werewolf players breaks the tie.
 
-# Lone wolf
+### Lone wolf
 * Special goal (live together, die alone): the only way for the lone wolf to win the game is to be the last player alive.
 * Passive (hide in the pack): every time the werewolves wake up, the lone wolf wakes up and plays as a standard werewolf.
 * Every night from night 3 (second dinner): once in the game, the lone wolf may select any player. That player dies.
