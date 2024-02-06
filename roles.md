@@ -23,6 +23,10 @@ The sheriff may not protect the same player twice in a row, unless that player w
 ### Knight
 * Passive (pardon): once in the game after a player is sentenced to death by the village, the knight may cancel that sentence. There is no new vote to replace the cancelled sentence.
 
+### Dean of the dead
+
+...
+
 Private roles
 -------------
 
@@ -53,3 +57,42 @@ Private roles
 Once in the game, the wizard may resurrect one of them.
 Also, once in the game (from night 2), the wizard may select another player to die.
 
+### Frère Joan
+
+...
+
+### Cupid
+
+...
+
+### Bohemian
+
+...
+
+### Gravedigger
+
+...
+
+### Alpha werewolf
+
+...
+
+### Pied Piper
+
+...
+
+### Fakir
+
+...
+
+### Stranger
+
+...
+
+### D.
+
+...
+
+### Brothers and sisters
+
+...
