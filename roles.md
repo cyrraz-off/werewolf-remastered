@@ -77,7 +77,7 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 ...
 
-### Pied Piper
+### Pied piper
 
 ...
 
