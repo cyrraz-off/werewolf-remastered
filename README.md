@@ -1,5 +1,7 @@
 # werewolf-remastered
 Remastered version of the werewolf game.
 
-The list of public and private roles is available [roles.md](roles.md).
+* [roles.md](roles.md): list of public and private roles.
+* [laws.md](laws.md): list of laws.
+
 This is a work in process.
