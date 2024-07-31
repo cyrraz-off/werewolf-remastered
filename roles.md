@@ -41,7 +41,9 @@ Private roles
 
 ### Alpha werewolf* (4)
 
-...
+* During the setup of a game that includes the alpha werewolf, the werewolf's and lone wolf's cards are not used.
+* Passive (lead the pack): every time the werewolves wake up, the alpha werewolf wakes up and plays as a standard werewolf. The alpha werewolf is always regarded as the oldest werewolf.
+* Every night (bite): the alpha werewolf may touch the head of another player. That player wakes up and becomes a werewolf (their role card is replaced). Throughout the game, this ability can be used up to N times, where N is the recommended number of werewolves plus lone wolves in a standard game (see [role_list.md](role_list.md)).
 
 ### Werewolf (5)
 * Every night (hunting time): the werewolves select any player. That player dies. If the werewolves do not agree on the choice of the victim, the relative majority rule applies. In case of tie, the oldest among the werewolf players breaks the tie.
