@@ -14,7 +14,7 @@ Permanent laws are indicated with a [Permanent] tag and remain in effect for the
 - **Public Persona Paradigm**: Only people with a public role can vote OR only people without a public role can vote.
 - **Posthumous Privileges**: Dead werewolves can vote.
 - **Designated Friends**: Instead of voting against someone, everyone points at two people simultaneously. Anyone who is not pointed at by anyone is condemned.
-- **Dictatorship** [Permanent]: Only the mayor can vote. At the end of each night, a new phase is introduced: people (including the mayor) can open their eyes to cause the mayor's downfall. If a strict majority of people open their eyes, the mayor is condemned, and this law is discarded. This law supersedes any other law.
+- **Dictatorship** [Permanent]: Only the mayor can vote. At the end of each night, a new phase is introduced: people (including the mayor) can open their eyes to cause the mayor's downfall. If a strict majority of people open their eyes, the mayor is condemned, and this law is discarded. This law supersedes any existing law and no new law is passed as long as this law is effective.
 - **Electoral Flux**: No vote is organized, and no one is condemned OR two votes are organized, and two people are condemned.
 - **Deadlock Demise**: In the event of a tied vote, the mayor is condemned OR the judge is condemned.
 - **Representative Democracy**: The judge divides the players into three groups, with each group containing at least one person. Each group selects a representative, who will be the only member allowed to cast a vote on behalf of the group.
