@@ -105,7 +105,7 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 ### Gravedigger* (17)
 
-...
+* Every night from night 3 (dig): once in the game, the gravedigger may choose the private role of an eliminated player. The gravedigger takes this role until the end of the game.
 
 ### Pied piper* (18)
 
