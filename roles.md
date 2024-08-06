@@ -1,6 +1,9 @@
 Roles
 =====
 
+* The number in parenthesis on the right of certain roles indicates the wake order during the night.
+* Roles marked with a star (*) are special roles that are not recommended is standard games.
+
 Public roles
 ------------
 
@@ -94,12 +97,11 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 ### Fakir* (15)
 
-...
+* Passive (performance): the only way for the Fakir to win is to be condemned by the vote of the villagers. If this happens, the game ends immediately and the Fakir wins.
 
 ### Stranger* (16)
 
-...
-
+* The role of the stranger is given to a player who joined the group in the middle of a game. The dead decide whether the stranger is a werewolf or a villager without any power, and the game master privately gives this information to the stranger.
 
 ### Gravedigger* (17)
 
