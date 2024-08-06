@@ -23,7 +23,17 @@ The sheriff may not protect the same player twice in a row, unless that player w
 ### Knight
 * Passive (pardon): once in the game after a player is sentenced to death by the village, the knight may cancel that sentence. There is no new vote to replace the cancelled sentence.
 
-### Dean of the dead (1)
+### Dean of the dead
+
+* The first eliminated player becomes the dean of the dead and receives the ring of power.
+* Anytime during the night, once in the game (ring of power):  the dean of the dead may privately give the ring of power to any player alive. If later in the game, a game effect would eliminate the owner of the ring of power, the owner may choose to discard the ring of power to be protected.
+
+### Judge of the dead
+
+* The second eliminated player becomes the judge of the dead and receives the deck of laws.
+* Anytime during the night: the judge of the dead may read the cards of the deck of laws and change their order.
+
+### Dead person (1)
 
 ...
 
