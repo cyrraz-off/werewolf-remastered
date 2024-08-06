@@ -42,7 +42,10 @@ Private roles
 
 ### Cupid (2)
 
-...
+* Night 1 (arrow of love): Cupid selects two players who fall in love. Cupid sleeps, the lovers wake up, recognise each other, and indicate with a sign whether each of them is a werewolf. The victory condition of the lovers becomes to be the last players alive. This victory condition replaces any victory condition they had before. If later in the game one of the two lovers dies, the other lover dies too.
+* Night 2 (arrow of hate): Cupid selects two players who become haters. Cupid sleeps, the haters wake up and recognise each other. The first time one of the haters, say hater A, should die, hater A may choose to not die and lie between life and death instead. A player between life and death cannot speak, vote or use the power of a public role during the day, but can still use their power during the night. If later in the game, the other hater, say hater B, dies and if hater A had chosen to lie between life and death, then hater A becomes fully alive.
+* Night 3 (arrow of rivalry): Cupid selects two players who become rivals. Cupid sleeps, the rivals wake up and recognise each other. A rival wins the game if and only if (1) their side wins AND (2) their rival is dead at the end of the game.
+* Note: in a game with 7-8 players, the order of the arrow is (1) hate, (2) love, (3) rivalry.
 
 ### Lone wolf (3)
 * Special goal (live together, die alone): the only way for the lone wolf to win the game is to be the last player alive.
