@@ -97,7 +97,7 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 ### Fakir* (15)
 
-* Passive (performance): the only way for the Fakir to win is to be condemned by the vote of the villagers. If this happens, the game ends immediately and the Fakir wins.
+* Victory condition (final performance): the only way for the Fakir to win the game is to be condemned by the vote of the villagers. If this happens, the game ends immediately and the Fakir wins.
 
 ### Stranger* (16)
 
@@ -109,8 +109,12 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 ### Pied piper* (18)
 
-...
+* Every night (charm): the Pied Piper selects two players to charm. The Pied Piper then sleeps, and all charmed players wake up and recognize each other.
+* Victory condition (back to Hamelin): The Pied Piper wins the game only if all surviving players have been charmed.
 
 ### D.* (19)
 
-...
+* Passive (immortality): D. cannot be killed by a werewolf or by the vote of the village.
+* Every night (conversion): D. may touch another player's neck to convert them. The converted player will wake up, see D., and their new victory condition becomes helping D. win. This new condition replaces any previous victory conditions.
+* Passive (shared fate) If D. dies, all players converted by D. also die.
+* Victory condition (eternity for all): D. wins the game only if all surviving players have been converted.
