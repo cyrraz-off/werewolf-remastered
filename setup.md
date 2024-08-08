@@ -6,5 +6,6 @@ Setup
 3. Players may use metagame information, such as movements or noises during the night.
 4. The players elect a mayor.
 5. The mayor appoints a Sheriff.
-6. The mayor appoints a Knight.
-7. The Sheriff appoints a Detective.
+6. The mayor appoints a Judge.
+7. The mayor appoints a Knight.
+8. The Sheriff appoints a Detective.
