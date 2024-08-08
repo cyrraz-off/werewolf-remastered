@@ -25,6 +25,7 @@ The sheriff may not protect the same player twice in a row, unless that player w
 
 ### Knight
 * Passive (pardon): once in the game after a player is sentenced to death by the village, the knight may cancel that sentence. There is no new vote to replace the cancelled sentence.
+* Passive (duel): once in the game during the day before the vote, the knight may challenge another player to a duel. The game master organizes a duel between the knight and the player. The loser of the duel dies.
 
 ### Dean of the dead
 
