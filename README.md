@@ -1,4 +1,6 @@
-# werewolf-remastered
+werewolf-remastered
+===================
+
 Remastered version of the werewolf game.
 
 * [roles.md](roles.md): description of public and private roles.
@@ -6,5 +8,6 @@ Remastered version of the werewolf game.
 * [setup.md](setup.md): setup instruction.
 * [laws.md](laws.md): list of laws.
 * [detective.md](detective.md): list of information given to the detective.
+* [memento.md](memento.md): important things to take note as a game master.
 
 This is a work in process.
