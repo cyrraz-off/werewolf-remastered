@@ -51,9 +51,9 @@ Private roles
 * Note: in a game with 7-8 players, the order of the arrow is (1) hate, (2) love, (3) rivalry.
 
 ### Lone wolf (3)
-* Special goal (live together, die alone): the only way for the lone wolf to win the game is to be the last player alive.
 * Passive (hide in the pack): every time the werewolves wake up, the lone wolf wakes up and plays as a standard werewolf.
 * Every night from night 3 (second dinner): once in the game, the lone wolf may select any player. That player dies.
+* Victory condition (live together, die alone): the only way for the lone wolf to win the game is to be the last player alive.
 
 ### Alpha werewolf* (4)
 
@@ -91,9 +91,10 @@ Also, once in the game (from night 2), the wizard may select another player to d
 ### Bourgeois (13)
 * Passive ("I am innocent!"): at any time during the game after the election of the mayor and of the government, the bourgeois may reveal their role of bourgeois.
 
-### Brothers and sisters (14)
+### Brother and sister (siblings) (14)
 
-...
+* Night 1 (family dinner): The siblings and recognize each other. They win with the village.
+* Every night if one of the siblings is dead and the other is alive (revenge): once in the game, the surviving sibling may select a player. That player dies.
 
 ### Fakir* (15)
 
