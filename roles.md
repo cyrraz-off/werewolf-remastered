@@ -83,12 +83,12 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 * Night 1 (make an artifact): the Bohemian can choose to create a lucky charm, a bad luck charm, or a love potion.
 * Night 2 (use the artifact): the Bohemian selects a player to use the made artifact.
- * The lucky charm protects its owner once from death.
- * The bad luck charm kills its owner the next day after the debates.
- * The love potion makes the target fall in love with the Bohemian. If the Bohemian dies, the lover dies too. If the lover dies, the Bohemian remains unaffected.
+  * The lucky charm protects its owner once from death.
+  * The bad luck charm kills its owner the next day after the debates.
+  * The love potion makes the target fall in love with the Bohemian. If the Bohemian dies, the lover dies too. If the lover dies, the Bohemian remains unaffected.
 * Night 3 (card trick): The Bohemian selects two players, at least one of whom has a public role.
- * If both players have public roles, their public roles are swapped.
- * If only one player has a public role, it is transferred to the player without a public role.
+  * If both players have public roles, their public roles are swapped.
+  * If only one player has a public role, it is transferred to the player without a public role.
 * Nights 4, 5, 6: repeat the actions from nights 1, 2, 3, respectively.
 
 ### Hunter (12)
