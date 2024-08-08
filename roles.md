@@ -21,7 +21,13 @@ The sheriff may not protect the same player twice in a row, unless that player w
 * Passive (nomination of the detective): When the detective dies, if 5 or more players are still alive, the sheriff chooses another player to become the new detective.
 
 ### Detective (20)
-* Every night (investigation): the game master draws a card from the deck of clues and privately gives the corresponding clue to the detective, who may take note of the information on a piece of paper.
+* Note: all information is provided privately to the detective by the game master.
+* Night 1 (beginning of the investigation): The game master shows the detective 4 players, including at least one werewolf.
+* Night 2 (love check): The game master informs the detective if the lovers are aligned (both werewolves or both villagers) or not aligned.
+* Night 3 (interrogation): the detective chooses a player. That player wakes up and the detective ask 3 questions. The player may lie when answering.
+* Night 4 (shadowing): the detective chooses a player. The game master gives a clue about the identity of that player to the detective.
+* Night 5 (search warrant): the detective chooses a player. The judge wakes up and decides whether to grant a search warrant. If granted, the game master reveals the private role of the searched player to the detective.
+* Nights 6, 7, 8: repeat the actions from nights 3, 4, 5, respectively.
 
 ### Knight
 * Passive (pardon): once in the game after a player is sentenced to death by the village, the knight may cancel that sentence. There is no new vote to replace the cancelled sentence.
@@ -39,7 +45,10 @@ The sheriff may not protect the same player twice in a row, unless that player w
 
 ### Dead person (1)
 
-...
+After at least 4 players are dead, the game master may propose the following actions to the dead players:
+* Curse of vote: the dead players choose one living player. This player starts the next vote with one vote against them.
+* Curse of word: the dead players choose one living player and a word. The chosen player must use this word during the debates of the following day. If they fail to do so, they die.
+* Theater Play: the dead players prepare and present a 10-second theater play to the living players. They are not allowed to speak, point to players, or mimic letters of the alphabet.
 
 Private roles
 -------------
@@ -72,7 +81,8 @@ Also, once in the game (from night 2), the wizard may select another player to d
 
 ### Joan (8)
 
-...
+* Night 1 (nightmare): Joan wakes up from a nightmare and then goes back to sleep.
+* Following nights (adventure): Joan embarks on an adventure directed by the game master, who may use [joan.md](joan.md) for inspiration.
 
 ### Fortune teller (9)
 * Every night (fourth eye): the fortune teller selects another player. The game master discreetly shows to the fortune teller the private role of the selected player.
