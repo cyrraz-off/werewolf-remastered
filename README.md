@@ -1,7 +1,7 @@
 werewolf-remastered
 ===================
 
-Remastered version of the werewolf game.
+Remastered version of the werewolf game. Number of players: from 7+1 to 15+1. Play time: approximately 1h.
 
 * [setup.md](setup.md): setup instruction.
 * [roles.md](roles.md): description of public and private roles.
