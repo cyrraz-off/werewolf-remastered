@@ -1,7 +1,7 @@
 Setup
 =====
 
-1. Deal one private role to each player. You can find a list of recommended roles as a function of the number of players in [recommended_roles.md](recommended_roles.md).
+1. Deal one private role to each player. The description of all the roles is [here](roles.md), and a list of recommended roles as a function of the number of players is [there](recommended_roles.md).
 2. **Important**: Players cannot disclose their private roles, even if lying. They can share and fabricate information but must not reveal how they obtained it if it discloses their private role.
 3. Players may use metagame information, such as movements or noises during the night.
 4. The players elect a mayor.
