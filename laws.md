@@ -12,7 +12,7 @@ Permanent laws are marked with a [Permanent] tag and remain in effect for the du
 - **Optical discrimination**: Only people who wear glasses can vote OR only people who do not wear glasses can vote.
 - **Dexterity discrimination**: Only left-handed people can vote OR only right-handed people can vote.
 - **Public persona paradigm**: Only people with a public role can vote OR only people without a public role can vote.
-- **Posthumous privileges** [Permanent]: Dead werewolves can vote.
+- **Posthumous privileges** [Permanent]: Dead Werewolves can vote.
 - **Designated friends**: Instead of voting against someone, everyone points at two people at the same time. Anyone who is not pointed at by anyone is condemned.
 - **Dictatorship** [Permanent]: Only the Mayor can vote. At the end of each night, a new phase is introduced: people (including the Mayor) can open their eyes to cause the Mayor's downfall. If a strict majority of people open their eyes, the Mayor is condemned and this law is discarded. This law supersedes all existing laws, and no new laws is passed while this law is in effect.
 - **Electoral flux**: No vote is organized, and no one is condemned OR two votes are organized, and two people are condemned.

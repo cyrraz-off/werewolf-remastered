@@ -9,7 +9,7 @@
 
 * **Love**:
   * Joan chooses a player to fall in love with.
-  * If this player is already one of Cupid's lovers, a throuple is formed. The new victory condition for the three lovers is to be the last three surviving players. If one dies, all die.
+  * If this player is already one of Cupid's Lovers, a throuple is formed. The new victory condition for the three Lovers is to be the last three surviving players. If one dies, all die.
   * Otherwise, Joan's victory condition remains the same, but if their chosen lover dies, Joan also dies.
 
 * **Room Cleaning**: Joan may clean their room. The room remains clean for the rest of the current game and the next game.
