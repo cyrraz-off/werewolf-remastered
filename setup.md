@@ -9,3 +9,4 @@ Set up
 6. The Mayor appoints a Judge.
 7. The Mayor appoints a Knight.
 8. The Sheriff appoints a Detective.
+9. If the Bourgeois is present in the game, their passive power is explained.
